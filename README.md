@@ -1,4 +1,4 @@
-# Google's Search page clon
+# Google's Search page clone
  * Made with HTML & CSS
  * ✉️  You can contact me at [devpabloch@gmail.com](mailto:devpabloch@gmail.com)
 
